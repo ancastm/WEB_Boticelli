@@ -1,10 +1,10 @@
 # WEB_Boticelli
 Página Web de Sandro Boticelli
-![header](https://github.com/ancastm/WEB_Boticelli/blob/master/screenshots/header.png)
+![header](https://github.com/ancastm/WEB_Boticellli/blob/master/screenshots/header.png)
 Cabecera de mi Web
-![biografia](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/biografia.png)
+![biografia](https://github.com/ancastm/WEB_Boticelli/blob/master/screenshots/biografia.png)
 Biografía de Sandro Boticelli
-![pintores_epoca](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/pintores_epoca.png)
+![pintores_epoca](https://github.com/ancastm/WEB_/blob/master/screenshots/pintores_epoca.png)
 Ejemplos de pintores de la misma época que Sandro Boticelli
 ![obras](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/obras.png)
 Un slider con varias obras de este famosos pintor.
