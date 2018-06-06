@@ -1,14 +1,15 @@
 # WEB_Boticelli
 Página Web de Sandro Boticelli
-![Screenshot](header.png)
+![header](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/header.png)
 Cabecera de mi Web
-![Screenshot](biografia.png)
+![biografia](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/biografia.png)
 Biografía de Sandro Boticelli
-![Screenshot](pintores_epoca.png)
+![pintores_epoca](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/pintores_epoca.png)
 Ejemplos de pintores de la misma época que Sandro Boticelli
-![Screenshot](obras.png)
+![obras](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/obras.png)
 Un slider con varias obras de este famosos pintor.
-![Screenshot](museo.png)
+![museo](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/museo.png)
 Museo donde podremos apreciar las maravillosas obras de arte del pintor.
-![Screenshot](formulario.png)
+![formulario](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/formulario.png)
 Un formulario para registrarse en la página.
+
