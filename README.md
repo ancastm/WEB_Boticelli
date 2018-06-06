@@ -1,6 +1,6 @@
 # WEB_Boticelli
 Página Web de Sandro Boticelli
-![header](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/header.png)
+![header](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/header.PNG)
 Cabecera de mi Web
 ![biografia](https://github.com/ancastm/CRUD_LIBROS/blob/master/screenshots/biografia.png)
 Biografía de Sandro Boticelli
